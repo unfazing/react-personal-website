@@ -74,6 +74,7 @@ h1 {
 section {
     /* leave whitespace between each section */
     margin-top: 8rem;
+    height: 100vh;
 }
 
 section > h2, section > h5 {
@@ -93,7 +94,7 @@ section > h2 {
 
 /* every anchor tag */
 a {
-    color: var(color --color-primary);
+    color: var(--color-primary);
     transition: var(--transition);
 }
 

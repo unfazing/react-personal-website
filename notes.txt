@@ -1,0 +1,15 @@
+//VS Code Extensions: ES7+ React/Redux/React-Native snippets 
+// create a functional component by typing 'rafce'
+
+
+
+// each jsx file has its own css file
+// in the jsx file, type <tag>.<className> and press enter as shortcut
+// e.g. h1.container -> <h1 className='container'> </h1>
+// e.g. container -> <div className='container'> </div>
+
+
+// import icons from react-icon library
+// npm install react-icons --save
+// search for logo name on the website
+// import {<logoNames>} from 'react-icons/'
