@@ -74,7 +74,6 @@ h1 {
 section {
     /* leave whitespace between each section */
     margin-top: 8rem;
-    height: 100vh;
 }
 
 section > h2, section > h5 {
